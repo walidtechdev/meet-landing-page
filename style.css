@@ -351,7 +351,7 @@ body {
     font-size: var(--font-size-tb-md);
   }
   .footer-cta {
-    background-image: url(assets/tablet/image-footer.jpg);
+    background-image: url(starter-code/assets/tablet/image-footer.jpg);
     background-size: 100% 320px;
     background-position: bottom center;
     background-repeat: no-repeat;
@@ -430,7 +430,7 @@ body {
     font-size: var(--font-size-md);
   }
   .footer-cta {
-    background-image: url(assets/desktop/image-footer.jpg);
+    background-image: url(starter-code/assets/desktop/image-footer.jpg);
     flex-shrink: 0;
     align-items: center;
     justify-content: center;
